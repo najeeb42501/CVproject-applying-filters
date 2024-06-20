@@ -36,7 +36,7 @@ This project is a computer vision application developed using Python and the Tki
 ## Usage
 1. Run the application:
     ```sh
-    python image_processor_app.py
+    python cv-project.py
     ```
 2. Use the provided buttons to upload images and apply filters.
 
